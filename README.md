@@ -27,16 +27,24 @@ This project is a Python-based solution to generate a comprehensive PDF report f
 ## 📂 Files Included
 
 ├── sales_100k_clean.csv # Input dataset
+
 ├── generate_report.py # Main Python script
+
 ├── sales_report_final.pdf # Output PDF report
+
 ├── region_chart.png # Chart: Sales by region
+
 ├── product_pie.png # Chart: Product categories
+
 ├── gender_chart.png # Chart: Gender distribution
+
 └── README.md # Project documentation
 
 ##📌 Technologies Used
 Python 3.x
+
 pandas – for data analysis
+
 matplotlib – for charts and visualizations
 fpdf2 – for generating PDF reports
 
